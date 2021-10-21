@@ -86,7 +86,7 @@ function tienePropiedad(objeto, propiedad) {
     return true;
   }
   else{
-    return false.
+    return false
   }
 }
 
